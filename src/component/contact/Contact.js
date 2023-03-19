@@ -37,7 +37,7 @@ export default function Contact() {
 
           <h4>WhatsApp</h4>
           <h5>+91 9993343796</h5>
-          <a href="https://api.whatsapp.com/send?phone=9993343796" target='_blank'>Send a message</a>
+          <a href="https://api.whatsapp.com/send?phone=919993343796" target='_blank'>Send a message</a>
         </article>
       </div>
       <form ref={form} onSubmit={sendEmail}>
