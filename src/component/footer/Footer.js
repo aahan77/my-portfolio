@@ -3,6 +3,7 @@ import './footer.css'
 import {BsInstagram} from 'react-icons/bs'
 import {AiFillTwitterCircle} from 'react-icons/ai'
 import {AiFillLinkedin} from 'react-icons/ai'
+import {AiFillGithub} from 'react-icons/ai'
 
 export default function Footer() {
   return (
@@ -38,6 +39,9 @@ export default function Footer() {
         </a>
         <a href="https://www.linkedin.com/in/aahan-solanki-web-developer">
           <AiFillLinkedin/>
+        </a>
+        <a href="https://github.com/aahan77">
+          <AiFillGithub/>
         </a>
       </div>
 
